@@ -4,7 +4,7 @@
 
 ## 项目说明
 
-`drawgragh` 是一个 Go 画图工具，只支持有向无环图(DAG, Directed Acyclic Graph)
+`draw-gragh` 是一个 Go 画图工具，只支持有向无环图(DAG, Directed Acyclic Graph)
 
 ## 运行
 

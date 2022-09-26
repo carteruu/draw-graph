@@ -2,7 +2,7 @@
 
 English | [简体中文](readme-cn.md)
 
-`drawgragh` is a draw DAG util
+`draw-gragh` is a draw DAG util
 
 ## Project layout and command line tools
 
