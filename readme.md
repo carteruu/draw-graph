@@ -16,7 +16,7 @@ English | [简体中文](readme-cn.md)
 
 ## Data format
 
-The data format can be provided via `json` files, refer to the format in [示例](cmd/data/example.json).
+The data format can be provided via `json` files, refer to the format in [example](cmd/data/example.json).
 
 ## Acknowledgements
 
